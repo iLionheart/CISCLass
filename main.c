@@ -1,3 +1,7 @@
+/*
+This is the first homework for CIS 241
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
